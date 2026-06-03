@@ -36,6 +36,20 @@ lpi-radar-waveform-classification/
 - Matplotlib
 - Scikit-learn
 
+## Installation
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run
+
+Open the notebook:
+
+```bash
+jupyter notebook radar_cnn.ipynb
+```
+
 ## Publication
 
 This repository is based on the following paper:
